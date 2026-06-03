@@ -25,7 +25,7 @@
 | | |
 |---|---|
 | **Name / Ad Soyad** | Fatma Yeliz Apaydın |
-| **Student ID / Öğrenci No** | `[Numaranızı Buraya Yazın]` |
+| **Student ID / Öğrenci No** | `[2420191038]` |
 
 ## 📚 Course Information / Ders Bilgileri
 | | |
