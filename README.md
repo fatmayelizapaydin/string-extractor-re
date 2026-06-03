@@ -69,3 +69,5 @@ Projenin yerel ortamda çalıştırılması için herhangi bir ek kütüphane ku
 
 ## ⚠️ Security Policy / Güvenlik Politikası
 Bu araç, statik analiz süreçlerini hızlandırmak amacıyla tasarlanmıştır. Kullanıcıların, üzerinde analiz yaptıkları dosyaların telif ve güvenlik haklarına riayet etmeleri beklenir. Yalnızca yetkili olduğunuz sistemlerde kullanın.
+# 🎥 Proje İspat Videosu
+[Tıkla ve İzle: Proje Demo Videosu](https://drive.google.com/file/d/1Rzy22RD24sxvq82N_gxuKAZTmKntkRc4/view?pli=1)
